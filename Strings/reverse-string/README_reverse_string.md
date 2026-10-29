@@ -351,7 +351,3 @@ The reversal itself can use O(1) extra space by swapping bytes in a mutable byte
 - Recognize two pointers as a reusable pattern.
 - Always clarify character semantics when Unicode matters.
 - State time and space complexity precisely.
-
-**Completed:** Strings — Problem 1, Reverse a String.
-
-**Next problem:** Strings — Problem 2, Check Whether a String Is a Palindrome.
